@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 This project focuses on analyzing **Swiggy food delivery sales data**, which falls under **E-commerce Data Analytics**.  
-The objective is to understand **sales performance, customer behavior, regional demand, and time-based trends** using interactive **Power BI dashboards**.
+The objective is to understand **sales performance, customer behavior, regional demand, and time-based trends** using interactive **Excel dashboards**.
 
 The analysis is designed based on a **Business Requirement Document (BRD)** covering key **KPIs and analytical charts** commonly used in real-world e-commerce platforms.
 
@@ -63,8 +63,7 @@ The analysis is designed based on a **Business Requirement Document (BRD)** cove
 ---
 
 ## 🛠 Tools & Technologies Used
-- **Power BI** – Dashboard creation, DAX measures, data modeling  
-- **Excel / CSV** – Data source  
+- **Excel** – Dashboard creation, data modeling and Data source  
 - **GitHub** 
 
 ---
