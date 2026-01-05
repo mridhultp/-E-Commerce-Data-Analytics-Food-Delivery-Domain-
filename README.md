@@ -1,5 +1,5 @@
 
-# 🛒 Swiggy E-Commerce Sales Data Analysis (Power BI)
+# 🛒 Swiggy E-Commerce Sales Data Analysis (MS Excel)
 
 ## 📌 Project Overview
 This project focuses on analyzing **Swiggy food delivery sales data**, which falls under **E-commerce Data Analytics**.  
